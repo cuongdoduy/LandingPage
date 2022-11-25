@@ -9,6 +9,7 @@
 ## Technology
 * Index.html and style.css are provided by Udacity.
 * App.js is included all features listed above.
-* Developed by [Cuong.DoDuy] 
+* Developed by [Cuong.DoDuy].
+
     [Cuong.DoDuy]: <https://github.com/cuongdoduy>
 
